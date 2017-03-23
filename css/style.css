@@ -1204,6 +1204,7 @@ body {
     float: left;
     width: 220px;
     margin: 10px;
+    background: #FFFFFF;
     box-shadow: 0 0 15px rgba(0, 1, 1, .2);
 }
 
